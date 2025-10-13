@@ -189,16 +189,10 @@ namespace DemoAPI
             Console.WriteLine("FullName file generated for RetailZAPI " + storeid);
 
 
-            // 12-10-2025   new changes for testing the git hub repo   
-            #region      demo code for commit changes    
-            // new changes on 13-10-2025
-    // new code edited from git hub repoo
-                #endregion
-
-            // new code edited from git hub repoo  
-
-            // now ia m testing the code changes and writing commit messages to show how the commit is working  
-            //from code editor to demonstrate every thing from visual studio (v2019)  on 13-10-2025
+            
+              #region      demo code for commit changes    
+            //testing the code on 13-10-2025  by pushing this code from code editor to --
+            // git hub account by using push option  (pos github)
             #endregion
 
 
