@@ -15,7 +15,7 @@ namespace DemoAPI
             {
                 PosSettings posSettings = new PosSettings();
                 posSettings.IntializeStoreSettings();
-                foreach (POSSetting current in posSettings.PosDetails)//testing by PK
+                foreach (POSSetting current in posSettings.PosDetails)//testing by PK 2
                 {
                     try
                     {
